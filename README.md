@@ -95,6 +95,9 @@ Frameworks para testar sistematicamente a robustez e segurança de modelos de li
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** 🛡️
   Framework de red teaming para LLMs focado em simular ataques adversariais e avaliar riscos de forma programática.
 
+- **[ARMAGEDDON Test Suite](https://armageddontest.icu)** 💥
+  Plataforma avançada de automated AI red teaming utilizando a engine PAIR para descobrir de forma autônoma vulnerabilidades (Prompt Injection, Jailbreaks) em modelos em produção.
+
 ---
 
 ## 💉 Prompt Injection e Jailbreaking
