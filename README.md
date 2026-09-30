@@ -93,6 +93,8 @@ Frameworks para testar sistematicamente a robustez e segurança de modelos de li
   Framework open source de testes de qualidade e segurança para modelos de ML e LLMs, com detecção automática de vieses e vulnerabilidades.
 
 - **[DeepTeam](https://github.com/confident-ai/deepteam)** 🛡️
+- **[Darkmoon](https://github.com/ASCIT31/Dark-Moon)** 🌑
+  Plataforma open source (GPL-3.0) de pentest autônomo com IA que também executa red teaming de LLMs (OWASP Top 10 para LLMs), orquestrando agentes especialistas e ferramentas ofensivas via MCP e comprovando cada achado com um exploit real.
   Framework de red teaming para LLMs focado em simular ataques adversariais e avaliar riscos de forma programática.
 
 ---
